@@ -1,0 +1,3 @@
+[submodule "memories-frontend"]
+	path = memories-frontend
+	url = https://github.com/yl4039/memories-frontend.git
